@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "omer yonatan-clone",
-    "currentPage": "page19.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -61,7 +61,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-21-10h111m38s008-1-522x350.png"
       },
       "components": [
         {
@@ -3645,7 +3646,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2000x14148.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2000x141412.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -3717,7 +3718,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2000x14148.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2000x141412.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5747,7 +5748,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2000x1102-800x4419.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2000x1102-800x44113.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5960,7 +5961,7 @@
             "showArrow": true,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h19m10s479-1920x108010.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h19m10s479-1920x108014.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -6462,7 +6463,7 @@
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h43m03s000-1920x108011.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h43m03s000-1920x108015.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
