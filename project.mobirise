@@ -3645,7 +3645,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2000x14140.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2000x14148.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -3717,7 +3717,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2000x14140.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2000x14148.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5747,7 +5747,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2000x1102-800x4411.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2000x1102-800x4419.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5960,7 +5960,7 @@
             "showArrow": true,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h19m10s479-1920x10802.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h19m10s479-1920x108010.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -6462,7 +6462,7 @@
             "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h43m03s000-1920x10803.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h43m03s000-1920x108011.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
