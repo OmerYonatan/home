@@ -1882,6 +1882,9 @@ section.form .container {
 }
 
 
+#msg-box4-a8 H3 {
+  text-align: center;
+}
 #ext_menu-a5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1950,6 +1953,90 @@ section.form .container {
 #footer1-a6 P {
   font-family: 'Assistant', sans-serif;
 }
-#msg-box4-a8 H3 {
-  text-align: center;
+
+
+#ext_menu-ac .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-ac .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-ac .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-ac .close-icon::before,
+#ext_menu-ac .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-ac .link,
+#ext_menu-ac .dropdown-item {
+  color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+}
+#ext_menu-ac .link {
+  font-size: 0.95rem;
+}
+#ext_menu-ac .dropdown-item,
+#ext_menu-ac .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-ac .link:hover,
+#ext_menu-ac .dropdown-item:hover,
+#ext_menu-ac .link:focus,
+#ext_menu-ac .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-ac .link[aria-expanded="true"],
+#ext_menu-ac .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-ac .nav-dropdown-sm .link:focus,
+#ext_menu-ac .nav-dropdown-sm .link:hover,
+#ext_menu-ac .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-ac .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-ac .navbar,
+#ext_menu-ac .nav-dropdown-sm,
+#ext_menu-ac .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-ac .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-ac .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-ac .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-ac .bg-color.transparent.opened .link:hover,
+#ext_menu-ac .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-ac .link[aria-expanded="true"],
+#ext_menu-ac .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-ac A {
+  font-size: 14px;
+}
+#footer1-ad P {
+  font-family: 'Assistant', sans-serif;
+}
+#msg-box6-ae h3,
+#msg-box6-ae p {
+  color: #fff;
+}
+#msg-box6-ae P {
+  text-align: left;
+  font-size: 19px;
+}
+#msg-box4-af P {
+  text-align: right;
+  font-size: 21px;
+  color: #000000;
+}
+#msg-box4-af H3 {
+  color: #000000;
+  text-align: right;
 }
