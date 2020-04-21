@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "omer yonatan-clone",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -42,7 +42,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 333,
+    "uniqCompNum": 343,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -83,7 +83,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -182,7 +182,7 @@
           },
           "title": "עיצוב לכל פרויקט, בכל זמן.",
           "text": "חולמים על העיצוב המושלם לאירוע או לעסק שלכם?<br>אתם במרחק לחיצה מלהגשים את החלום שלכם.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">אני רוצה להזמין</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#form2-14\" data-toolbar=\"-mbrBtnMove\">אני רוצה להזמין</a> ",
           "_tags": [
             "Theme"
           ],
@@ -735,7 +735,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "קמפיינים",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -856,7 +856,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -965,7 +965,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "לוגואים לפרויקטים ועסקים",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -987,7 +987,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2025,7 +2025,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "פלאיירים",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -2047,7 +2047,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2530,7 +2530,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "קמפיין סיעת חי",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -2618,7 +2618,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3511,7 +3511,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "קמפיין עמית ריבק",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -3533,7 +3533,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3644,7 +3644,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2000x14140.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2000x14141.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -3716,7 +3716,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2000x14140.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2000x14141.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3812,7 +3812,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "אריזות גרפיות לשמיניסטים",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -3834,7 +3834,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4415,7 +4415,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "קליפ להיות אזרח",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -4437,7 +4437,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page25.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4838,6 +4838,698 @@
           ],
           "_name": "features3",
           "_anchor": "features3-98"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "טקסי זיכרון עירוניים",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "64",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h58m05s837-1280x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=170eoO_CHV0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "טקס יום השואה 2018",
+          "text": "<p>קריינות כיתובים</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "msg-box4-9c"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "css": "'Assistant', sans-serif",
+              "name": "Assistant",
+              "url": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800",
+              "font-family": "'Assistant', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-99"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright ©&nbsp;2020 by Omer Yonatan Design &amp; Photography",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Assistant', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800"
+            }
+          },
+          "_anchor": "footer1-9a"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "62",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vlcsnap-2020-04-07-12h58m33s055-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=Mpzpoj9E16o",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "טקס יום השואה 2018",
+          "text": "דמיינו לעצמכם שכל זוועות השואה היו מתרחשים <br>בכלל על פלנטה אחרת מחוץ לכדור הארץ...",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-9b"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "נעם מימון",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {
+              "css": "'Assistant', sans-serif",
+              "name": "Assistant",
+              "url": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">פלאיירים</a></li><li class=\"nav-item\"> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">לוגואים לפרויקטים ועסקים</a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">פרוייקטים<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">צוות ניו-מידה LEAD<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">מצגת נעם מימון</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">פרוייקט Dare To Dream</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page23.html\">RideSnow</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shminizem.html\">מיתוג מחזורים בית ספריים ופרומואים</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">סרט המסע לפולין אורט ביאליק 2019<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">קליפ \"להיות אזרח\" מחזור נ\"ג<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">קמפיינים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">קמפיין סיעת \"חי\" 2018<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">קמפיין עמית ריבק<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">צילומים</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">צילומים נבחרים<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page28.html\">המסע לפולין 2019<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">מצגות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">גילה שרון שרה דיוות- מצגת מופע</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">מיכל אלגיא חוגגת 18</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">טום אלגיא חוגג &nbsp;בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page21.html\">עידו ינאי חוגג בר מצווה</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page22.html\">טקסי זיכרון עירוניים קרית ביאליק</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">להזמנות</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800",
+              "font-family": "'Assistant', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9d"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright ©&nbsp;2020 by Omer Yonatan Design &amp; Photography",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Assistant', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800"
+            }
+          },
+          "_anchor": "footer1-9e"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1126-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1126-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1126-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1126-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-9g"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#3e6646",
+            "timeout": "2",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1125.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1125.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-9h"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc",
+              "font-size": "48px",
+              "font-family": "'Assistant', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800"
+            },
+            ".card-block P": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5-2000x1126.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "מה נעם אומרת?",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "נעם מימון",
+              "authorBio": "User",
+              "text": "<p>לעומר פניתי עם הרבה תסכול. יומיים לפני  מצגת חשובה שהייתי צריכה עיצוב עבורה והרגשתי אבודה. עוד באותו הערב שפניתי אליו הוא סיים את רוב העבודה ועיצב עבורי מצגת מהסרטים שקיבלתי עלייה כל כך הרבה מחמאות. עומר עשה עבודה מקצועית ומרשימה מאד המון סבלנות ואכפתיות. הוא עשה את המקסימום כדי שייצא בדיוק מה שאני רוצה (וכך היה!)</p><p><b>ממליצה מאד, ובטוחה שאפנה אליו שוב!</b></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-9i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "54",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2000x1126.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "פרזנטצית התהליך&nbsp;<br>בפרוייקט פל\"א&nbsp;<br>2019-2020",
+          "text": "בני הנוער המשתתפים בפרוייקט פל\"א [פעילים למען האקלים] צוברים ידע נרחב בנושא משבר האקלים, מקדמים יוזמות&nbsp;שמטרתן להיטיב עם איכות הסביבה וכן דואגים להלעאת המודעות הציבורית לנושאי אקלים ושמירה על הסביבה.",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-9f"
         }
       ]
     }

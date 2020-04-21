@@ -1273,3 +1273,182 @@ section.form .container {
 #msg-box6-96 H3 {
   text-align: center;
 }
+
+
+#msg-box4-9c P {
+  text-align: center;
+  font-size: 22px;
+  color: #ffffff;
+}
+#msg-box4-9c H3 {
+  color: #f7da64;
+}
+#ext_menu-99 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-99 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-99 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-99 .close-icon::before,
+#ext_menu-99 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-99 .link,
+#ext_menu-99 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+}
+#ext_menu-99 .link {
+  font-size: 0.95rem;
+}
+#ext_menu-99 .dropdown-item,
+#ext_menu-99 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-99 .link:hover,
+#ext_menu-99 .dropdown-item:hover,
+#ext_menu-99 .link:focus,
+#ext_menu-99 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-99 .link[aria-expanded="true"],
+#ext_menu-99 .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-99 .nav-dropdown-sm .link:focus,
+#ext_menu-99 .nav-dropdown-sm .link:hover,
+#ext_menu-99 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-99 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-99 .navbar,
+#ext_menu-99 .nav-dropdown-sm,
+#ext_menu-99 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-99 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-99 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-99 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-99 .bg-color.transparent.opened .link:hover,
+#ext_menu-99 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-99 .link[aria-expanded="true"],
+#ext_menu-99 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-99 A {
+  font-size: 14px;
+}
+#footer1-9a P {
+  font-family: 'Assistant', sans-serif;
+}
+#msg-box4-9b P {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box4-9b H3 {
+  color: #ffffff;
+}
+
+
+
+#ext_menu-9d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-9d .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-9d .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-9d .close-icon::before,
+#ext_menu-9d .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-9d .link,
+#ext_menu-9d .dropdown-item {
+  color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+}
+#ext_menu-9d .link {
+  font-size: 0.95rem;
+}
+#ext_menu-9d .dropdown-item,
+#ext_menu-9d .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-9d .link:hover,
+#ext_menu-9d .dropdown-item:hover,
+#ext_menu-9d .link:focus,
+#ext_menu-9d .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-9d .link[aria-expanded="true"],
+#ext_menu-9d .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-9d .nav-dropdown-sm .link:focus,
+#ext_menu-9d .nav-dropdown-sm .link:hover,
+#ext_menu-9d .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-9d .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-9d .navbar,
+#ext_menu-9d .nav-dropdown-sm,
+#ext_menu-9d .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-9d .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-9d .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-9d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-9d .bg-color.transparent.opened .link:hover,
+#ext_menu-9d .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-9d .link[aria-expanded="true"],
+#ext_menu-9d .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-9d A {
+  font-size: 14px;
+}
+#footer1-9e P {
+  font-family: 'Assistant', sans-serif;
+}
+#testimonials3-9i .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-9i .mbr-author-name {
+  color: #ccc;
+  font-size: 48px;
+  font-family: 'Assistant', sans-serif;
+}
+#testimonials3-9i .card-block P {
+  font-size: 22px;
+}
+#msg-box6-9f h3,
+#msg-box6-9f p {
+  color: #fff;
+}
+#msg-box6-9f H3 {
+  text-align: center;
+  font-size: 60px;
+}
+#msg-box6-9f P {
+  text-align: right;
+  font-size: 22px;
+}
